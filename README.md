@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Jacek 👋
+
+<h3 align="center">A passionate backend developer from Poland</h3>
 
 <!--
 **Jacekg1993/Jacekg1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
