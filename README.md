@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Jacek</h1>
-<h3 align="center">A Java passionate</h3>
 
 - 🔭 I’m currently working on [Report system in maintenance](https://github.com/Jacekg1993/report-system-in-maintenance)
 - 🌱 I’m currently learning **Spring boot, REST Services**
