@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jacek</h1>
 
-- 🔭 I’m currently working on [Report system in maintenance](https://github.com/Jacekg1993/report-system-in-maintenance)
+- 🔭 I’m currently working on [Home Finances - REST API](https://github.com/Jacekg1993/home-finances-api)
 - 🌱 I’m currently learning **Spring boot, REST Services**
 - 📫 How to reach me **jacekg93@gmail.com**
 
