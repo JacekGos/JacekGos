@@ -11,9 +11,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![spring_boot (3)](https://user-images.githubusercontent.com/46130249/150394666-5c4ed917-b0f4-46ac-bfb4-a356d39a58d8.jpg)
+</p>
+
+![junit5 (1)](https://user-images.githubusercontent.com/46130249/150396683-9f40a2d0-252c-4540-9088-fe3d7c877892.jpg)
+
+</p>
+
+![REST_API](https://user-images.githubusercontent.com/46130249/150397530-cf7bec1c-b596-42c2-87cc-cca71e5069b7.jpg)
 
 </p>
 
