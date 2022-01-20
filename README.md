@@ -16,7 +16,8 @@
 ![spring_boot (3)](https://user-images.githubusercontent.com/46130249/150394666-5c4ed917-b0f4-46ac-bfb4-a356d39a58d8.jpg)
 </p>
 
-![junit5 (1)](https://user-images.githubusercontent.com/46130249/150396683-9f40a2d0-252c-4540-9088-fe3d7c877892.jpg)
+![Junit](https://user-images.githubusercontent.com/46130249/150399719-37459d39-adae-4be4-a816-0a23c72e9c7d.jpg)
+
 
 </p>
 
