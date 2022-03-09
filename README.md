@@ -11,9 +11,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![spring_boot](https://user-images.githubusercontent.com/46130249/157132786-c180ee9b-5a8a-4cf2-96c2-0c0f684bd89c.png)
+
+<img src="https://user-images.githubusercontent.com/46130249/157364838-ab9ccde4-51ac-4d8b-9b4a-a44e541890ef.png" 
+width="80px" height="40px" >
+<img src="https://user-images.githubusercontent.com/46130249/157364491-4a900728-a063-42f5-a66d-3aee588f1a13.png" 
+width="80px" height="40px" >
+<img src="https://user-images.githubusercontent.com/46130249/157365216-ee4a9e89-f2dd-4959-9651-2435c2d5768b.png" 
+width="80px" height="40px" >
+</p>
+
 
 ![JUnit5](https://user-images.githubusercontent.com/46130249/157133699-6ce31671-cd98-463f-8c71-ac47258723e6.png)
 ![mockito](https://user-images.githubusercontent.com/46130249/157134712-9a913a3a-9493-4ea1-9e1b-dc3f36988d80.png)
@@ -36,3 +42,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </p>
 
 
+
+img {
+  border-radius: 50%;
+}
