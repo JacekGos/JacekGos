@@ -12,22 +12,25 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img src="https://user-images.githubusercontent.com/46130249/157364838-ab9ccde4-51ac-4d8b-9b4a-a44e541890ef.png" 
-width="80px" height="40px" >
+<img style="border-style:solid;border:2;border-color:blue" src="https://user-images.githubusercontent.com/46130249/157364838-ab9ccde4-51ac-4d8b-9b4a-a44e541890ef.png" 
+width="80px" height="40px" border="10px black"/>
 <img src="https://user-images.githubusercontent.com/46130249/157364491-4a900728-a063-42f5-a66d-3aee588f1a13.png" 
 width="80px" height="40px" >
 <img src="https://user-images.githubusercontent.com/46130249/157365216-ee4a9e89-f2dd-4959-9651-2435c2d5768b.png" 
 width="80px" height="40px" >
 </p>
 
-
-![JUnit5](https://user-images.githubusercontent.com/46130249/157133699-6ce31671-cd98-463f-8c71-ac47258723e6.png)
-![mockito](https://user-images.githubusercontent.com/46130249/157134712-9a913a3a-9493-4ea1-9e1b-dc3f36988d80.png)
+<img src="https://user-images.githubusercontent.com/46130249/157460437-e907fc8a-3b72-4a67-a93e-349ecd3ea12e.png" 
+width="80px" height="40px" >
+<img src="https://user-images.githubusercontent.com/46130249/157460907-21ea1781-0a18-4d60-995f-b3dd18fefff2.png" 
+width="80px" height="40px" >
 
 </p>
 
-![hibernate](https://user-images.githubusercontent.com/46130249/157136038-a6e751f1-ef9a-41e8-bf04-669c7d9c1a44.png)
-![spring data jpa](https://user-images.githubusercontent.com/46130249/157137093-ed24ac18-ce9f-41f4-adf4-124eae3b1733.png)
+<img src="https://user-images.githubusercontent.com/46130249/157462652-a5b35a8d-b414-4da1-9ef7-359bc0aae237.png" 
+width="80px" height="40px">
+<img src="https://user-images.githubusercontent.com/46130249/157463267-07f76c94-9413-40aa-b734-629f0db41384.png" 
+width="80px" height="40px" >
 
 </p>
 
