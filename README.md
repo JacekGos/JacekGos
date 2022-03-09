@@ -12,12 +12,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img style="border-style:solid;border:2;border-color:blue" src="https://user-images.githubusercontent.com/46130249/157364838-ab9ccde4-51ac-4d8b-9b4a-a44e541890ef.png" 
+<img src="https://user-images.githubusercontent.com/46130249/157480598-655104e4-1a04-4153-b8c9-3986ca1f9abb.png" 
 width="80px" height="40px" border="10px black"/>
-<img src="https://user-images.githubusercontent.com/46130249/157364491-4a900728-a063-42f5-a66d-3aee588f1a13.png" 
+<img src="https://user-images.githubusercontent.com/46130249/157479114-1f589aea-5d2c-47ba-b0b4-2207b66c4d54.png" 
 width="80px" height="40px" >
-<img src="https://user-images.githubusercontent.com/46130249/157365216-ee4a9e89-f2dd-4959-9651-2435c2d5768b.png" 
+<img src="https://user-images.githubusercontent.com/46130249/157478793-cec40649-55c5-4141-b495-236bf7671093.png" 
 width="80px" height="40px" >
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/46130249/157460437-e907fc8a-3b72-4a67-a93e-349ecd3ea12e.png" 
@@ -32,14 +33,18 @@ width="80px" height="40px">
 <img src="https://user-images.githubusercontent.com/46130249/157466194-c907b582-5400-4179-8a24-7c0bd7d5caa3.png" 
 width="80px" height="40px" >
 
+
+
+<img src="https://user-images.githubusercontent.com/46130249/157476252-a93c3feb-0e05-43c2-b97d-afe36ae3ec5d.png" 
+width="80px" height="40px" >
+
 </p>
 
-![REST API](https://user-images.githubusercontent.com/46130249/157134162-c71820a7-7c03-4c73-b2d3-aa65def199a7.png)
+<img src="https://user-images.githubusercontent.com/46130249/157475011-c536d53a-fa46-4183-8318-64a0dab1f951.png" 
+width="80px" height="40px" >
 
 </p>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</p>
+<img src="https://user-images.githubusercontent.com/46130249/157477803-7f945507-ecff-4f3e-a095-9d962125ab4a.png" 
+width="80px" height="40px" >
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </p>
