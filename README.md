@@ -1,7 +1,10 @@
 <h1 align="center">Hello, I'm Jacek</h1>
 
- 🔭 I’m currently working on [Team Finder - REST API](https://github.com/Jacekg1993/team-finder-rest-api) </p>
- 🌱 I’m currently learning **Spring boot, REST Services, AWS** </p>
+ 🔭 I’m currently working on: 
+ [Team Finder - Microservices](https://github.com/JacekGos/team-finder-microservices) /
+ [Team Finder - UI](https://github.com/JacekGos/team-finder-ui) </p>
+  </p>
+ 🌱 I’m currently learning **Microservices, Docker, AWS, React**  </p>
  📫 How to reach me **gos.jacek.11@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
