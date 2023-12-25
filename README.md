@@ -3,7 +3,7 @@
  🔭 I’m currently working on: 
  <br>
  <br>
- Fullstack application with Spring Boot monolithic structured application and React with Typscript:
+ Fullstack application with Spring Boot monolithic backend application and React with Typscript as frontend:
  <br>
  [Team Finder - backend](https://github.com/JacekGos/team-finder-backend) /
  [Team Finder - frontend](https://github.com/JacekGos/team-finder-ui-v2) 
