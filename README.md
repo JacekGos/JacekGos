@@ -1,9 +1,16 @@
 <h1 align="center">Hello, I'm Jacek</h1>
 
  🔭 I’m currently working on: 
- [Team Finder - Microservices](https://github.com/JacekGos/team-finder-microservices) /
- [Team Finder - UI](https://github.com/JacekGos/team-finder-ui) 
- : <a href="https://jacekgos.github.io/team-finder-ui/">Visit UI demo</a>
+ <br>
+ <br>
+ Fullstack application with Spring Boot monolithic structured application and React with Typscript:
+ <br>
+ [Team Finder - backend](https://github.com/JacekGos/team-finder-backend) /
+ [Team Finder - frontend](https://github.com/JacekGos/team-finder-ui-v2) 
+ : <a href="http://team-finder-ui.s3-website.eu-central-1.amazonaws.com/">Visit page</a>
+
+ Microservice structured application:
+ [Team Finder - Microservices](https://github.com/JacekGos/team-finder-microservices)
  </p>
  🌱 I’m currently learning **Microservices, Docker, AWS, React**  </p>
  📫 How to reach me **gos.jacek.11@gmail.com** </p>
@@ -18,7 +25,7 @@
 <h4 align="center">Spring Cloud</h4>
 <h4 align="center">JUnit &#x2022 Mockito</h4>
 <h4 align="center">Hibernate &#x2022 Spring Data JPA &#x2022 PostgreSQL &#x2022 MySQL</h4>
-<h4 align="center">JavaScript &#x2022 React &#x2022 HTML &#x2022 CSS &#x2022 Bootstrap</h4>
+<h4 align="center">JavaScript &#x2022 TypeScript &#x2022 React &#x2022 HTML &#x2022 CSS &#x2022 Bootstrap</h4>
 <h4 align="center">Git &#x2022 Docker &#x2022 AWS</h4>
 <h4 align="center">Rest API &#x2022 Microservices</h4>
 
