@@ -3,6 +3,10 @@
  🔭 I’m currently working on: 
  <br>
  <br>
+ Microservice Event-Driven structured application:
+ [IoT Processor - Microservices](https://github.com/JacekGos/iot-data-processor)
+ <br>
+ <br>
  Fullstack application with Spring Boot monolithic backend application and React with Typscript as frontend:
  <br>
  [Team Finder - backend](https://github.com/JacekGos/team-finder-backend) /
@@ -11,6 +15,9 @@
 
  Microservice structured application:
  [Team Finder - Microservices](https://github.com/JacekGos/team-finder-microservices)
+
+
+ 
  </p>
  🌱 I’m currently learning **Microservices, Docker, AWS, React**  </p>
  📫 How to reach me **gos.jacek.11@gmail.com** </p>
